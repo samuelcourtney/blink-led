@@ -1,12 +1,7 @@
 /*    
  *     
  *     
-        Samuel Courtney 
-        CWID: 11682010  
-
-          Lab Assignment 1
-
-          Assignment Description:
+Description:
             The program will begin by printing a prompt to the screen asking for user input. The program should do nothing before a user input is provided. 
             At first prompt, if the user provides a "g" the application will continuously blink two LEDs until the user enters an "s" at the prompt. 
             If the user provides an "s" at any time, the application will stop blinking both LEDs until new user input is provided. 
